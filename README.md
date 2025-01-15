@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rryuzakiii
-- 👀 I’m interested in Systems Programming
-- 💞️ I’m looking to collaborate on Embedded Systems Develeopmet
+- 👀 I’m interested in Systems Programming and Clang
+- 💞️ I’m looking to collaborate on Embedded Systems Development
 - 😄 Pronouns: he/hehe/haha
-- ⚡ Fun fact: you are my sasur ke nati
