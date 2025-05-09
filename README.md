@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rryuzakiii
+- 👋 Hi, I’m @vyapakanjayena 
 - 👀 I’m interested in Systems Programming and Clang
 - 💞️ I’m looking to collaborate on Embedded Systems Development
 - 😄 Pronouns: he/hehe/haha
